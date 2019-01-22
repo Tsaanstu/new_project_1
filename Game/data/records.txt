@@ -1,0 +1,10 @@
+1 first 183
+2 newtester1 132
+3 check1 39
+4 sdfgf 37
+5 second 20
+6 fdsf 14
+7 ityf 11
+8 test 10
+9 sdf 9
+10 fsd 5

@@ -1,0 +1,2 @@
+1/*id of command*/ 2/*id of the next union*/ А действительно ли? /*text of command*/
+2 3 Посмотреть

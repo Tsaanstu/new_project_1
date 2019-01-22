@@ -1,0 +1,6 @@
+1 Move number one
+1 /* id of text */
+1 /* id of commands */
+2 Move number two
+2 
+2
